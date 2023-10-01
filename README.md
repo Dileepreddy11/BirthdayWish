@@ -1,6 +1,5 @@
 Live Demo 👉👉
-https://dileepreddy11.github.io/BirthdayWish.com/
-# BirthdayWish.com
+https://dileepreddy11.github.io/BirthdayWish/
 <h1 align="center">Hi 👋, I'm Dileep</h1>
 <h3 align="center">I am a student from GNITC and A passionate frontend developer from India</h3>
 
